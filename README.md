@@ -8,11 +8,11 @@ Larghetto
 
 ## Member
 
-Larghetto*ccEupho(2106050218)  
-Larghetto_Boléro(2106050203)  
-Larghetto*五亿个小铃铛(2106050101)  
-Larghetto*没嘴见人朽木君(2106050223)  
-Larghetto*王不会(2106050209)
+Larghetto _ccEupho(2106050218)_  
+Larghetto _Boléro(2106050203)_  
+Larghetto _五亿个小铃铛(2106050101)_  
+Larghetto _没嘴见人朽木君(2106050223)_  
+Larghetto _王不会(2106050209)_
 
 ---
 
