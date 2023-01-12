@@ -9,6 +9,7 @@ Total : 42 files,  7674 codes, 1136 comments, 1337 blanks, all 10147 lines
 [Summary](results.md) / Details / [Diff Summary](diff.md) / [Diff Details](diff-details.md)
 
 ## Files
+
 | filename | language | code | comment | blank | total |
 | :--- | :--- | ---: | ---: | ---: | ---: |
 | [.github/workflows/static.yml](/.github/workflows/static.yml) | YAML | 30 | 7 | 6 | 43 |
